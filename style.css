@@ -1,0 +1,55 @@
+body{
+  margin:0;
+  padding:0;
+  font-family: sans-serif;
+}
+.container-fluid{
+  margin-top: 0.7rem;
+}
+.media-body{
+  line-height: 7px;
+}
+.media-body p{
+  color:#2b16fb;
+}
+.navbar a{
+  margin-left: 0.6rem;
+  color:white!important;
+}
+.carousel img{
+
+  max-width: 100%;
+  max-height: 500px!important;
+}
+.dropdown-menu .dropdown-item{
+margin:0;
+background-color: black;
+
+}
+
+.dropdown-menu{
+  padding: 0;
+}
+.dropdown:hover .dropdown-menu{
+  display: block;
+
+
+}
+.dropdown-menu a:hover{
+  background-color: blue;
+
+}
+
+.fas{
+  font-size: 30px
+}
+.dropdown-menu .dropdown-item:focus{
+  background-color: blue;
+
+}
+.table2 td{
+  box-shadow: 10px 10px 25px blue,0 0 10px green,0 0 30px lightblue;
+}
+.table1 td{
+  background-color: black;
+}
