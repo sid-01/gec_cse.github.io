@@ -59,3 +59,18 @@ background-color: black;
     width: 100%;
   }
 }
+.sid p{
+  line-height: 10px!important;
+}
+.sid p a{
+  margin-right:2rem!important;
+  color: white;
+  font-size: 20px
+}
+.fa-navicon:before, .fa-reorder:before, .fa-bars:before{
+  content:''!important;
+}
+nav a:hover{
+  background-color:blue;
+
+}
