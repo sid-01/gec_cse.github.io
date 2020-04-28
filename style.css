@@ -74,3 +74,7 @@ nav a:hover{
   background-color:blue;
 
 }
+. media  . media-body h5, p{
+
+font-weight:bold;
+}
