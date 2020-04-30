@@ -17,9 +17,9 @@
       <div class="media" >
   <img src="https://gec-chamarajanagara.ac.in/wp-content/themes/Gecc_Umbrella/assets/images/Kar-Logo.png"  class="mr-3" alt="..." height="70px" width="85px">
   <div class="media-body">
-    <h5 class="mt-0">Department of Computer Science</h5>
-<p><a href="https://gec-chamarajanagara.ac.in/" style="text-decoration:none">GEC Chamarajanagar</a></p>
-<p style="font-size:10pt;">Affiliated to VTU Belagavi-59001</p>
+    <h5 class="mt-0"><b>Department of Computer Science</b></h5>
+<p><a href="https://gec-chamarajanagara.ac.in/" style="text-decoration:none"><b>GEC Chamarajanagar</b></a></p>
+    <p style="font-size:10pt;"><b>Affiliated to VTU Belagavi-59001</b></p>
   </div>
 </div>
     </div>
@@ -32,20 +32,20 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
       </li>
 
       <li class="nav-item">
-        <a class="nav-link" href="login.php">Login</a>
+        <a class="nav-link" href="login.html">Login</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="admin.php">Admin</a>
+        <a class="nav-link" href="admin.html">Admin</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="gallery.php">Gallery</a>
+        <a class="nav-link" href="gallery.html">Gallery</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="contact.php">Conatct Us</a>
+        <a class="nav-link" href="contact.html">Conatct Us</a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -106,7 +106,7 @@
           <li> <a href="https://vtu.ac.in/en/">VTU-Belagavi </a></li>
             <li> <a href="http://dte.kar.nic.in/index.shtml">DTE </a></li>
               <li> <a href="https://www.aicte-india.org/">AICTE </a></li>
-                <li> <a href="admin.php">Admin </a></li>
+                <li> <a href="admin.html">Admin </a></li>
       </ul>
 
     </div>
